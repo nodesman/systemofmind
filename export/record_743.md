@@ -1,0 +1,8 @@
+# Record Data (record_743)
+
+```json
+{
+  "role": "user",
+  "content": "Help me understand the felign I have - i lost sooo much in life because of him. I am in trauma right now because of him. Forced arranged marriage happened ebcasue of him. let's say after that harm from him stopped. \t\n\nafter i went through what i went through in october 2023, my father did know that i was in some kidn of distress but was able to bring himself to check out but he told my brohter to visit me and then he didnt follow up. i was dealing with things on my own. only my mother checks on me often now. \n\ni guess the question is what should I do? or what do i want? I know that he now has no ability to be actively harmful. A part of my brain is worried if he will find some girl for me and fuck things up or play a role in my future marriage and end up affecting me again. I can micromanage that. i can't believe i had to leave India and sever ties with them to be far from all the damage they did. i left their apartment in 2015 after that major indecent incident with my parents and then after that i left india itself and then came to the netherlands. started healign while here. then what? \n\nWhat responsibility do i have towards him? end of life ones. keep him from suffering because of a moral duty otherwise i guess i would be justified in banadoning? \n\nso the fear there is i have a bad family where my only family is my mother who calls me everywday. i think i am free to sever ties with brother who we have establsiehd is now at every opportunity harmful and resentful and not care about father guy unless EOL. limit interactions?\n"
+}
+```

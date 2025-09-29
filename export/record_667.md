@@ -1,0 +1,8 @@
+# Record Data (record_667)
+
+```json
+{
+  "role": "user",
+  "content": "Are you saying that some form of reasoning are invalid like the reaonsing?\n\nIs it because I am giving them credit for thigns that did and did not happen in alternative realities? Then I should also blame him for not working harder and leavign India or putting me on the path to doing SAT and leavign India sooner? For making better choices? That would have objectively did better for me? Or is my reasoning invalid - that if i should thank him for not creating circumstnaces worse, then i shold blame him for not doing even better? why do i not deserve it? please tell me if you understand it. i am \n\nwho do i credit for having ome this far - given tha they also paid the fine in college for me beign debarred, made financial contributions during divorce, even took care of me in 2025 when i was hurt again. but i fought and got a aieee coaching in 2004 and got good grades got good rank, good college, then i got a job in tcs, then thoughtworks, then stayed there for 4 years then emgirated from india. through my own interviewing. who is to blame and how much credit do i owe parents abd my brother? i know my brother hardly is owed any credit. he did things only at the insistence of my father and i dont exist otherwise. my parnts changed after i went no contact so their recent behavior is not a given it is a product of change that i wrought. i am sure baout this..  \n\nwhy this reasoning is coming is i am trying ot make a clear understanding of what led to where i am\n\nso there is such a thing as invalid reasonig - what other such invalid reasonig exists? i ask becuase i am polluted by it and i need to clarify my thoughts from it \n"
+}
+```

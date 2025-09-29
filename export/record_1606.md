@@ -1,0 +1,6 @@
+**User:**
+I had made a post while on sick leave asking for help from people in Amsterdam if they knew about VectorDB to potentially meet with me to help me. The company also was internally doing projects involving retrieval augmentation generation but this guy, this manager was unknowledgeable about any of the work that was going on. He reported after learning that I reported, I think he must have learned that I reported uh, he reported him to HR, his behavior and anyway, after I reported him to HR, two months after that, he he took a screenshot of my post and told them that I was doing business while on sick leave but since I lived in the Netherlands, HR told him that I'm allowed to business while on sick leave but they came and asked me what business I'm doing to which I responded that I had the near identical question I asked someone on the company's chat and HR likely did an investigation of if the content of the message was indicative of doing business. My question to you is why do you think he did it? For clarity. When I reported him to HR before him doing the thing with my LinkedIn post I had reported him but not the full investigation had taken place. That started 8 months later and in the intervening period is when he did this 
+
+**Assistant:**
+[LLM Response]
+

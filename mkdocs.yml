@@ -1,0 +1,43 @@
+site_name: System of a Mind
+site_description: 'An exploration of the systems of thought that govern our lives.'
+
+nav:
+  - 'Home': 'index.md'
+  - 'The Three Paths':
+    - 'Path 1: The Drifter': 'the_three_paths/01_Path_1_The_Drifter.md'
+    - 'Path 2: The Architect Within Walls': 'the_three_paths/02_Path_2_The_Architect_Within_Walls.md'
+    - 'Path 3: The Sovereign Architect': 'the_three_paths/03_Path_3_The_Sovereign_Architect.md'
+    - 'Guide to Community': 'the_three_paths/04_Path_3_A_Guide_to_Community.md'
+    - 'Guide to Ethics': 'the_three_paths/05_Path_3_Forging_an_Ethical_Framework.md'
+
+theme:
+  name: material
+  logo: assets/logo.svg
+  font:
+    text: Lato
+    code: Roboto Mono
+  palette:
+    # Light mode
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
