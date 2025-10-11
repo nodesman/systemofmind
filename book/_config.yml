@@ -37,3 +37,4 @@ defaults:
 
 sass:
   quiet_deps: true
+
