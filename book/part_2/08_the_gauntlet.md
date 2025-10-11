@@ -1,9 +1,6 @@
-title: Chapter 8: The Gauntlet: The Price of Entry
-parent: Part 2 — The Gauntlet
-nav_order: 1
 ---
 title: Chapter 8: The Gauntlet: The Price of Entry
-parent: Part 2 — The Gauntlet
+parent: Part II The Gauntlet
 nav_order: 1
 ---
 

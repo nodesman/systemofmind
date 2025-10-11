@@ -1,9 +1,6 @@
-title: Chapter 7: The Realms of Meaning (The World Map)
-parent: Part 1 — The Compass
-nav_order: 7
 ---
 title: Chapter 7: The Realms of Meaning (The World Map)
-parent: Part 1 — The Compass
+parent: Part I The Compass
 nav_order: 7
 ---
 

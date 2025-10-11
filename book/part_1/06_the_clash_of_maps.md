@@ -1,9 +1,6 @@
-title: Chapter 6: The Clash of Maps (A Guide to Relationships)
-parent: Part 1 — The Compass
-nav_order: 6
 ---
 title: Chapter 6: The Clash of Maps (A Guide to Relationships)
-parent: Part 1 — The Compass
+parent: Part I The Compass
 nav_order: 6
 ---
 

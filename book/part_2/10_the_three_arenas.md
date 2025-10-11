@@ -1,9 +1,6 @@
-title: Chapter 10: The Three Arenas (Choosing Your Canvas)
-parent: Part 2 — The Gauntlet
-nav_order: 3
 ---
 title: Chapter 10: The Three Arenas (Choosing Your Canvas)
-parent: Part 2 — The Gauntlet
+parent: Part II The Gauntlet
 nav_order: 3
 ---
 

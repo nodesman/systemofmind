@@ -1,0 +1,79 @@
+source: book
+title: System of a Mind
+description: "An exploration of the systems of thought that govern our lives."
+
+# GitHub Pages project site settings
+url: https://nodesman.github.io
+baseurl: /systemofmind
+permalink: pretty
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+
+# Theme options
+search_enabled: true
+color_scheme: nil
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/nodesman/systemofmind"
+nav_external_links_new_tab: true
+
+# Main navigation
+nav_bar_items:
+  - title: "Part I: The Compass"
+    url: "/part_1/"
+    children:
+      - title: "Chapter 1: The Argument"
+        url: "/part_1/01_the_argument"
+      - title: "Chapter 2: The Map & The Territory"
+        url: "/part_1/02_the_map_and_the_territory"
+      - title: "Chapter 3: The Scaffolding of Meaning"
+        url: "/part_1/03_the_scaffolding_of_meaning"
+      - title: "Chapter 4: The Operating Systems"
+        url: "/part_1/04_the_operating_systems"
+      - title: "Chapter 5: The Great Divides"
+        url: "/part_1/05_the_great_divides"
+      - title: "Chapter 6: The Clash of Maps"
+        url: "/part_1/06_the_clash_of_maps"
+      - title: "Chapter 7: The Realms of Meaning"
+        url: "/part_1/07_the_realms_of_meaning"
+  - title: "Part II: The Gauntlet"
+    url: "/part_2/"
+    children:
+      - title: "Chapter 8: The Gauntlet"
+        url: "/part_2/08_the_gauntlet"
+      - title: "Chapter 9: Your Fingerprint"
+        url: "/part_2/09_your_axiological_fingerprint"
+      - title: "Chapter 10: The Three Arenas"
+        url: "/part_2/10_the_three_arenas"
+      - title: "Chapter 11: The Gallery of Archetypes"
+        url: "/part_2/11_the_gallery_of_archetypes"
+      - title: "Chapter 12: Forging Your Map"
+        url: "/part_2/12_forging_your_own_map"
+      - title: "Chapter 13: The Internal Physics"
+        url: "/part_2/13_the_internal_physics"
+      - title: "Chapter 14: Designing Your Interface"
+        url: "/part_2/14_designing_your_interface"
+      - title: "Conclusion: The Unfinished Map"
+        url: "/part_2/15_conclusion"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+  - scope:
+      path: "legacy_files"
+    values:
+      nav_exclude: true
+
+sass:
+  quiet_deps: true

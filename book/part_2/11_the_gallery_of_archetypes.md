@@ -1,9 +1,6 @@
-title: Chapter 11: The Gallery of Archetypes (A Tour of the Frontier)
-parent: Part 2 — The Gauntlet
-nav_order: 4
 ---
 title: Chapter 11: The Gallery of Archetypes (A Tour of the Frontier)
-parent: Part 2 — The Gauntlet
+parent: Part II The Gauntlet
 nav_order: 4
 ---
 

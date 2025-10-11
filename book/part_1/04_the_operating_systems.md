@@ -1,9 +1,6 @@
-title: Chapter 4: The Operating Systems (The HOW)
-parent: Part 1 — The Compass
-nav_order: 4
 ---
 title: Chapter 4: The Operating Systems (The HOW)
-parent: Part 1 — The Compass
+parent: Part I The Compass
 nav_order: 4
 ---
 

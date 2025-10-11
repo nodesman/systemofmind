@@ -1,9 +1,6 @@
-title: Chapter 12: Forging Your Own Map (The Six-Axis Workshop)
-parent: Part 2 — The Gauntlet
-nav_order: 5
 ---
 title: Chapter 12: Forging Your Own Map (The Six-Axis Workshop)
-parent: Part 2 — The Gauntlet
+parent: Part II The Gauntlet
 nav_order: 5
 ---
 

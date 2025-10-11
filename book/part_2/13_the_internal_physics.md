@@ -1,9 +1,6 @@
-title: Chapter 13: The Internal Physics of Your Map
-parent: Part 2 — The Gauntlet
-nav_order: 6
 ---
 title: Chapter 13: The Internal Physics of Your Map
-parent: Part 2 — The Gauntlet
+parent: Part II The Gauntlet
 nav_order: 6
 ---
 
