@@ -12,6 +12,7 @@ remote_theme: just-the-docs/just-the-docs
 # Theme options
 search_enabled: true
 color_scheme: nil
+logo: /assets/images/logo.png
 
 aux_links:
   "View on GitHub":
@@ -37,4 +38,3 @@ defaults:
 
 sass:
   quiet_deps: true
-

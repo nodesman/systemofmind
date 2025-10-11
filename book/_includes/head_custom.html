@@ -4,3 +4,35 @@
 {%- endcomment -%}
 <script defer src="{{ '/assets/js/expand-nav.js' | relative_url }}"></script>
 
+{%- if page.hero_image -%}
+  <meta name="hero-image" content="{{ page.hero_image | relative_url }}">
+  <style>
+    .hero-banner { margin: 0 0 1rem 0; }
+    .hero-banner img { width: 100%; height: auto; border-radius: 6px; display: block; }
+  </style>
+  <script>
+    (function () {
+      function injectHero() {
+        try {
+          var meta = document.querySelector('meta[name="hero-image"]');
+          if (!meta) return;
+          var src = meta.getAttribute('content');
+          var main = document.querySelector('main.main-content');
+          if (!main) return;
+          var container = document.createElement('div');
+          container.className = 'hero-banner';
+          var img = document.createElement('img');
+          img.src = src;
+          img.alt = '';
+          container.appendChild(img);
+          main.insertBefore(container, main.firstChild);
+        } catch (e) { /* noop */ }
+      }
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', injectHero);
+      } else {
+        injectHero();
+      }
+    })();
+  </script>
+{%- endif -%}
