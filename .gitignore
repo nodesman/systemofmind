@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+docs/.DS_Store
+
+# MkDocs build output
+site/
+
+# Jekyll local build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.bundle/
+vendor/

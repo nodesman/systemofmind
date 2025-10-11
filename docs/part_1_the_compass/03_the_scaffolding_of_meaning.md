@@ -1,3 +1,12 @@
+title: Chapter 3: The Scaffolding of Meaning (The 6 Axiological Axes)
+parent: Part 1 — The Compass
+nav_order: 3
+---
+title: Chapter 3: The Scaffolding of Meaning (The 6 Axiological Axes)
+parent: Part 1 — The Compass
+nav_order: 3
+---
+
 # Chapter 3: The Scaffolding of Meaning (The 6 Axiological Axes)
 
 ## The Universal Language of "Why"

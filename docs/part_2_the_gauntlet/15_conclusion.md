@@ -1,3 +1,12 @@
+title: Conclusion: The Unfinished Map
+parent: Part 2 — The Gauntlet
+nav_order: 8
+---
+title: Conclusion: The Unfinished Map
+parent: Part 2 — The Gauntlet
+nav_order: 8
+---
+
 # Conclusion: The Unfinished Map
 
 ## The Lifelong Practice of a Conscious Cartographer

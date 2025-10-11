@@ -1,3 +1,12 @@
+title: Chapter 9: Your Axiological Fingerprint (Self-Diagnosis)
+parent: Part 2 — The Gauntlet
+nav_order: 2
+---
+title: Chapter 9: Your Axiological Fingerprint (Self-Diagnosis)
+parent: Part 2 — The Gauntlet
+nav_order: 2
+---
+
 # Chapter 9: Your Axiological Fingerprint (Self-Diagnosis)
 
 ## The First Draft of Your User Manual

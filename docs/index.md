@@ -1,3 +1,8 @@
+---
+title: Home
+nav_order: 1
+---
+
 # Welcome to The Default Setting
 
 **A guide to the invisible systems that drive people, and how to navigate them for a safer life.**
@@ -24,10 +29,7 @@ The purpose of this work is to make these systems visible. It is a compass, not 
 
 By understanding this model, you can identify your own position, understand the people around you, and decide if the trade-offs you are making are the ones you truly want to make.
 
-## Explore the Chapters
+## Explore the Book
 
-*   [Chapter 1: The Argument That Makes No Sense](part_1_the_compass/01_the_argument.md)
-*   [Chapter 2: The Map and The Territory](part_1_the_compass/02_the_map_and_the_territory.md)
-*   [Chapter 3: The Scaffolding of Meaning](part_1_the_compass/03_the_scaffolding_of_meaning.md)
-*   [Chapter 4: The Operating Systems](part_1_the_compass/04_the_operating_systems.md)
-*   ... and more ...
+- Part 1 — The Compass: /part-1/
+- Part 2 — The Gauntlet: /part-2/

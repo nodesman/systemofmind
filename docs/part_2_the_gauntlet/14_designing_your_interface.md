@@ -1,3 +1,12 @@
+title: Chapter 14: Designing Your Interface (Navigating a World of Mismatch)
+parent: Part 2 — The Gauntlet
+nav_order: 7
+---
+title: Chapter 14: Designing Your Interface (Navigating a World of Mismatch)
+parent: Part 2 — The Gauntlet
+nav_order: 7
+---
+
 # Chapter 14: Designing Your Interface (Navigating a World of Mismatch)
 
 ## The Art of Conscious Adaptation

@@ -1,3 +1,12 @@
+title: Chapter 4: The Operating Systems (The HOW)
+parent: Part 1 — The Compass
+nav_order: 4
+---
+title: Chapter 4: The Operating Systems (The HOW)
+parent: Part 1 — The Compass
+nav_order: 4
+---
+
 # Chapter 4: The Operating Systems (The HOW)
 
 If the Six Axiological Axes are the "WHAT" of a belief system, the Operating System is the "HOW." It describes the fundamental physics of how that system works and perpetuates itself.

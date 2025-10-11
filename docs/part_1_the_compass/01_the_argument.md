@@ -1,3 +1,9 @@
+---
+title: Chapter 1: The Argument That Makes No Sense
+parent: Part 1 — The Compass
+nav_order: 1
+---
+
 # Chapter 1: The Argument That Makes No Sense
 
 ## The Dinner Table Standoff
@@ -33,3 +39,11 @@ And what if you could learn to see those systems?
 This book is a guide to those invisible rulebooks. It is a map of the mental territories that we and the people around us inhabit. It will not tell you which map is "right." It will give you the tools to become a conscious cartographer—to read your own map, to understand the maps of others, and to navigate the world with more wisdom, more empathy, and far less painful, frustrating silence.
 
 The goal is not to win the argument. The goal is to understand why the argument is happening in the first place.
+# Chapter 1: The Argument That Makes No Sense
+---
+title: Chapter 1: The Argument That Makes No Sense
+parent: Part 1 — The Compass
+nav_order: 1
+---
+
+# Chapter 1: The Argument That Makes No Sense

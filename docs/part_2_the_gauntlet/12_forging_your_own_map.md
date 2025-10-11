@@ -1,3 +1,12 @@
+title: Chapter 12: Forging Your Own Map (The Six-Axis Workshop)
+parent: Part 2 — The Gauntlet
+nav_order: 5
+---
+title: Chapter 12: Forging Your Own Map (The Six-Axis Workshop)
+parent: Part 2 — The Gauntlet
+nav_order: 5
+---
+
 # Chapter 12: Forging Your Own Map (The Six-Axis Workshop)
 
 ## The Work of the Author: Moving from Diagnosis to Design

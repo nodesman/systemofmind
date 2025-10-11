@@ -1,3 +1,12 @@
+title: Chapter 2: The Map and The Territory
+parent: Part 1 — The Compass
+nav_order: 2
+---
+title: Chapter 2: The Map and The Territory
+parent: Part 1 — The Compass
+nav_order: 2
+---
+
 # Chapter 2: The Map and The Territory
 
 ## The Map in Your Head
