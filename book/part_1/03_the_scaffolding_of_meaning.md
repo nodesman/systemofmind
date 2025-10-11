@@ -4,6 +4,9 @@ parent: "Part I The Compass"
 nav_order: 3
 hero_image: /assets/images/theme_systems.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 3: The Scaffolding of Meaning (The 6 Axiological Axes)
 
 ## The Universal Language of "Why"

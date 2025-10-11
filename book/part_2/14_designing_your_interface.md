@@ -4,6 +4,9 @@ parent: "Part II The Gauntlet"
 nav_order: 14
 hero_image: /assets/images/theme_creation.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 14: Designing Your Interface (Navigating a World of Mismatch)
 
 ## The Art of Conscious Adaptation

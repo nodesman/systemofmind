@@ -4,6 +4,9 @@ parent: "Part I The Compass"
 nav_order: 5
 hero_image: /assets/images/theme_conflict.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 5: The Great Divides (The Sources of Conflict)
 
 ## The Fault Lines of the Human Heart

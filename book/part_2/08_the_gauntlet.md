@@ -4,6 +4,9 @@ parent: "Part II The Gauntlet"
 nav_order: 8
 hero_image: /assets/images/theme_creation.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 8: The Gauntlet: The Price of Entry
 
 ## The Great Abdication: Why This Path is Not for Everyone

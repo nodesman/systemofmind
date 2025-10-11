@@ -4,6 +4,9 @@ parent: "Part II The Gauntlet"
 nav_order: 9
 hero_image: /assets/images/theme_creation.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 9: Your Axiological Fingerprint (Self-Diagnosis)
 
 ## The First Draft of Your User Manual

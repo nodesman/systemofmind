@@ -4,6 +4,9 @@ parent: "Part I The Compass"
 nav_order: 1
 hero_image: /assets/images/theme_conflict.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 1: The Argument That Makes No Sense
 
 ## The Dinner Table Standoff

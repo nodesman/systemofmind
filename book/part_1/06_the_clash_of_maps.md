@@ -4,6 +4,9 @@ parent: "Part I The Compass"
 nav_order: 6
 hero_image: /assets/images/theme_conflict.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 6: The Clash of Maps (A Guide to Relationships)
 
 ## The Physics of Human Connection

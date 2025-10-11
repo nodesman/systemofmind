@@ -4,6 +4,9 @@ parent: "Part I The Compass"
 nav_order: 7
 hero_image: /assets/images/theme_systems.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 7: The Realms of Meaning (The World Map)
 
 ## The Grand Synthesis: A Map of the Modern World

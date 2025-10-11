@@ -6,6 +6,10 @@ has_children: true
 hero_image: /assets/images/part_1_banner.png
 ---
 
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
+
 # Part I: The Compass
 
 This first part of the book is a map of the world. It is a toolkit for understanding the invisible systems of meaning that govern our lives, our relationships, and our societies.

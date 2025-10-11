@@ -4,6 +4,9 @@ parent: "Part I The Compass"
 nav_order: 2
 hero_image: /assets/images/theme_systems.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 2: The Map and The Territory
 
 ## The Map in Your Head

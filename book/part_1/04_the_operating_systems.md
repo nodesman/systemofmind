@@ -4,6 +4,9 @@ parent: "Part I The Compass"
 nav_order: 4
 hero_image: /assets/images/theme_systems.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 4: The Operating Systems (The HOW)
 
 If the Six Axiological Axes are the "WHAT" of a belief system, the Operating System is the "HOW." It describes the fundamental physics of how that system works and perpetuates itself.

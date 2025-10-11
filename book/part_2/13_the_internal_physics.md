@@ -4,6 +4,9 @@ parent: "Part II The Gauntlet"
 nav_order: 13
 hero_image: /assets/images/theme_creation.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 13: The Internal Physics of Your Map
 
 ## Beyond the Axes: How Your Values Interact

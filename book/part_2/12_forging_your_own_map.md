@@ -4,6 +4,9 @@ parent: "Part II The Gauntlet"
 nav_order: 12
 hero_image: /assets/images/theme_creation.png
 ---
+{% if page.hero_image %}
+<div class="hero-banner"><img src="{{ page.hero_image | relative_url }}" alt=""></div>
+{% endif %}
 # Chapter 12: Forging Your Own Map (The Six-Axis Workshop)
 
 ## The Work of the Author: Moving from Diagnosis to Design
