@@ -31,5 +31,5 @@ By understanding this model, you can identify your own position, understand the 
 
 ## Explore the Book
 
-- Part 1 — The Compass: part-1/
-- Part 2 — The Gauntlet: part-2/
+- Part 1 — The Compass: /part_1/
+- Part 2 — The Gauntlet: /part_2/
