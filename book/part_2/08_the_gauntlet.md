@@ -1,9 +1,8 @@
 ---
-title: Chapter 8: The Gauntlet: The Price of Entry
-parent: Part II The Gauntlet
-nav_order: 1
+title: "Chapter 8: The Gauntlet"
+parent: "Part II The Gauntlet"
+nav_order: 8
 ---
-
 # Chapter 8: The Gauntlet: The Price of Entry
 
 ## The Great Abdication: Why This Path is Not for Everyone

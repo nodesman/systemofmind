@@ -1,9 +1,8 @@
 ---
-title: Chapter 2: The Map and The Territory
-parent: Part I The Compass
+title: "Chapter 2: The Map & The Territory"
+parent: "Part I The Compass"
 nav_order: 2
 ---
-
 # Chapter 2: The Map and The Territory
 
 ## The Map in Your Head

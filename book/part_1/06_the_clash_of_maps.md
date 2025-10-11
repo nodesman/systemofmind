@@ -1,9 +1,8 @@
 ---
-title: Chapter 6: The Clash of Maps (A Guide to Relationships)
-parent: Part I The Compass
+title: "Chapter 6: The Clash of Maps"
+parent: "Part I The Compass"
 nav_order: 6
 ---
-
 # Chapter 6: The Clash of Maps (A Guide to Relationships)
 
 ## The Physics of Human Connection

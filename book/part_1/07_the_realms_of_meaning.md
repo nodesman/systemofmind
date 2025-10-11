@@ -1,9 +1,8 @@
 ---
-title: Chapter 7: The Realms of Meaning (The World Map)
-parent: Part I The Compass
+title: "Chapter 7: The Realms of Meaning"
+parent: "Part I The Compass"
 nav_order: 7
 ---
-
 # Chapter 7: The Realms of Meaning (The World Map)
 
 ## The Grand Synthesis: A Map of the Modern World

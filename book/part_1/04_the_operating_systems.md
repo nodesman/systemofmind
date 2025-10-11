@@ -1,9 +1,8 @@
 ---
-title: Chapter 4: The Operating Systems (The HOW)
-parent: Part I The Compass
+title: "Chapter 4: The Operating Systems"
+parent: "Part I The Compass"
 nav_order: 4
 ---
-
 # Chapter 4: The Operating Systems (The HOW)
 
 If the Six Axiological Axes are the "WHAT" of a belief system, the Operating System is the "HOW." It describes the fundamental physics of how that system works and perpetuates itself.
@@ -37,7 +36,7 @@ Just as the external world has an operating system, so does your internal world.
 ### Path 1: The Native (Your Map is Inherited)
 The Native is the individual whose internal map is an unconscious, unexamined copy of the territory they were raised in. They are the "fish in water." Their operating system runs on autopilot, seamlessly executing the cultural programming of their environment. They don't know they have a map; they just think they are seeing the world as it is.
 
-### Path 2: The Adherent (The Adopted Map)
+### Path 2: The Adherent (Your Map is Adopted)
 The Adherent is the individual who has realized their inherited map is flawed or insufficient. They make a conscious, high-agency choice to throw it away and adopt a new, pre-made, comprehensive map from a `Derived-Canonical` system. This could be a religion, a political ideology, or a visionary company. Their OS runs on faith and the disciplined execution of their chosen doctrine.
 
 ### Path 3: The Author (Your Map is Self-Made)

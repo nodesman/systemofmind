@@ -1,9 +1,8 @@
 ---
-title: Chapter 13: The Internal Physics of Your Map
-parent: Part II The Gauntlet
-nav_order: 6
+title: "Chapter 13: The Internal Physics"
+parent: "Part II The Gauntlet"
+nav_order: 13
 ---
-
 # Chapter 13: The Internal Physics of Your Map
 
 ## Beyond the Axes: How Your Values Interact

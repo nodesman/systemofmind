@@ -1,9 +1,8 @@
 ---
-title: Conclusion: The Unfinished Map
-parent: Part II The Gauntlet
-nav_order: 8
+title: "Conclusion: The Unfinished Map"
+parent: "Part II The Gauntlet"
+nav_order: 15
 ---
-
 # Conclusion: The Unfinished Map
 
 ## The Lifelong Practice of a Conscious Cartographer
@@ -18,7 +17,7 @@ You will make mistakes. You will find that some of your chosen values are in a d
 
 ## A Final Word on the Responsibility and Joy of Freedom
 
-The path of the Author is the most demanding path. It asks you to take on the total, crushing responsibility for your own meaning, your own ethics, and your own choices.. There is no one to blame and no one to praise but yourself.
+The path of the Author is the most demanding path. It asks you to take on the total, crushing responsibility for your own meaning, your own ethics, and your own choices. There is no one to blame and no one to praise but yourself.
 
 But with that great burden comes the ultimate reward: the joy of a life lived in alignment with your own deepest, most authentic truths. It is the joy of knowing that the map you are navigating by is a map you drew yourself. It is the quiet, profound satisfaction of looking at your life—your work, your relationships, your choices—and knowing that it is a true expression of who you have chosen to be.
 

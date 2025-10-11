@@ -1,9 +1,8 @@
 ---
-title: Chapter 5: The Great Divides (The Sources of Conflict)
-parent: Part I The Compass
+title: "Chapter 5: The Great Divides"
+parent: "Part I The Compass"
 nav_order: 5
 ---
-
 # Chapter 5: The Great Divides (The Sources of Conflict)
 
 ## The Fault Lines of the Human Heart
