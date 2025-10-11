@@ -20,6 +20,7 @@ nav_external_links_new_tab: true
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
 
@@ -36,4 +37,3 @@ defaults:
 
 sass:
   quiet_deps: true
-
