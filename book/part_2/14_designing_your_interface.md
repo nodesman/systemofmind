@@ -1,7 +1,8 @@
 ---
 title: "Chapter 14: Designing Your Interface"
 parent: "Part II The Gauntlet"
-nav_order: 7
+nav_order: 14
+hero_image: /assets/images/theme_creation.png
 ---
 # Chapter 14: Designing Your Interface (Navigating a World of Mismatch)
 

@@ -2,6 +2,7 @@
 title: "Chapter 4: The Operating Systems"
 parent: "Part I The Compass"
 nav_order: 4
+hero_image: /assets/images/theme_systems.png
 ---
 # Chapter 4: The Operating Systems (The HOW)
 

@@ -3,6 +3,7 @@ layout: default
 title: Part II The Gauntlet
 nav_order: 2
 has_children: true
+hero_image: /assets/images/part_2_banner.png
 ---
 
 # Part II: The Gauntlet

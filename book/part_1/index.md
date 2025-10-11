@@ -3,6 +3,7 @@ layout: default
 title: Part I The Compass
 nav_order: 1
 has_children: true
+hero_image: /assets/images/part_1_banner.png
 ---
 
 # Part I: The Compass

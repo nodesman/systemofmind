@@ -2,6 +2,7 @@
 title: "Chapter 2: The Map & The Territory"
 parent: "Part I The Compass"
 nav_order: 2
+hero_image: /assets/images/theme_systems.png
 ---
 # Chapter 2: The Map and The Territory
 

@@ -1,7 +1,8 @@
 ---
 title: "Chapter 13: The Internal Physics"
 parent: "Part II The Gauntlet"
-nav_order: 6
+nav_order: 13
+hero_image: /assets/images/theme_creation.png
 ---
 # Chapter 13: The Internal Physics of Your Map
 

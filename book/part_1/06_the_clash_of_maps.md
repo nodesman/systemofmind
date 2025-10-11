@@ -2,6 +2,7 @@
 title: "Chapter 6: The Clash of Maps"
 parent: "Part I The Compass"
 nav_order: 6
+hero_image: /assets/images/theme_conflict.png
 ---
 # Chapter 6: The Clash of Maps (A Guide to Relationships)
 

@@ -2,6 +2,7 @@
 title: "Chapter 1: The Argument"
 parent: "Part I The Compass"
 nav_order: 1
+hero_image: /assets/images/theme_conflict.png
 ---
 # Chapter 1: The Argument That Makes No Sense
 

@@ -1,7 +1,8 @@
 ---
 title: "Chapter 12: Forging Your Map"
 parent: "Part II The Gauntlet"
-nav_order: 5
+nav_order: 12
+hero_image: /assets/images/theme_creation.png
 ---
 # Chapter 12: Forging Your Own Map (The Six-Axis Workshop)
 

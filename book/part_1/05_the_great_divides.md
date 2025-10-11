@@ -2,6 +2,7 @@
 title: "Chapter 5: The Great Divides"
 parent: "Part I The Compass"
 nav_order: 5
+hero_image: /assets/images/theme_conflict.png
 ---
 # Chapter 5: The Great Divides (The Sources of Conflict)
 

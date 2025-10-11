@@ -2,6 +2,7 @@
 title: "Chapter 3: The Scaffolding of Meaning"
 parent: "Part I The Compass"
 nav_order: 3
+hero_image: /assets/images/theme_systems.png
 ---
 # Chapter 3: The Scaffolding of Meaning (The 6 Axiological Axes)
 

@@ -2,6 +2,7 @@
 title: "Chapter 7: The Realms of Meaning"
 parent: "Part I The Compass"
 nav_order: 7
+hero_image: /assets/images/theme_systems.png
 ---
 # Chapter 7: The Realms of Meaning (The World Map)
 

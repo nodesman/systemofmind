@@ -1,7 +1,8 @@
 ---
 title: "Chapter 9: Your Fingerprint"
 parent: "Part II The Gauntlet"
-nav_order: 2
+nav_order: 9
+hero_image: /assets/images/theme_creation.png
 ---
 # Chapter 9: Your Axiological Fingerprint (Self-Diagnosis)
 

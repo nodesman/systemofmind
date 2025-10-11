@@ -10,6 +10,7 @@ permalink: pretty
 remote_theme: just-the-docs/just-the-docs
 
 # Theme options
+logo: "/assets/images/logo.png"
 search_enabled: true
 color_scheme: nil
 

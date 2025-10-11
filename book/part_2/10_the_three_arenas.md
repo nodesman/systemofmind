@@ -1,7 +1,8 @@
 ---
 title: "Chapter 10: The Three Arenas"
 parent: "Part II The Gauntlet"
-nav_order: 3
+nav_order: 10
+hero_image: /assets/images/theme_creation.png
 ---
 # Chapter 10: The Three Arenas (Choosing Your Canvas)
 

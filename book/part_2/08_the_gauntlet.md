@@ -1,7 +1,8 @@
 ---
 title: "Chapter 8: The Gauntlet"
 parent: "Part II The Gauntlet"
-nav_order: 1
+nav_order: 8
+hero_image: /assets/images/theme_creation.png
 ---
 # Chapter 8: The Gauntlet: The Price of Entry
 
