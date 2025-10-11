@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: The Three Arenas"
 parent: "Part II The Gauntlet"
-nav_order: 10
+nav_order: 3
 ---
 # Chapter 10: The Three Arenas (Choosing Your Canvas)
 

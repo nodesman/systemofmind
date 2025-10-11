@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home
 nav_order: 0
 ---
@@ -12,4 +12,7 @@ This book is an examination of the "Default Settings"—the mental maps—that i
 
 By understanding this model, you can identify your own position, understand the people around you, and decide if the trade-offs you are making are the ones you truly want to make.
 
-[Get started with Part I]({% link part_1/index.md %})
+Get started with:
+
+- Part I — The Compass: {{ "/part_1/" | relative_url }}
+- Part II — The Gauntlet: {{ "/part_2/" | relative_url }}

@@ -1,7 +1,7 @@
 ---
 title: "Conclusion: The Unfinished Map"
 parent: "Part II The Gauntlet"
-nav_order: 15
+nav_order: 8
 ---
 # Conclusion: The Unfinished Map
 
