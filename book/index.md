@@ -28,5 +28,11 @@ Get started with the core concepts:
 
 These self-contained books apply the core framework to specific contexts.
 
+- **Beyond the Rank:** A guide to navigating learning and success within the high-stakes context of Indian education.
+  - [Explore this application]({{ "indian_ed/" | relative_url }})
+
+- **The New Indian Dream:** A guide to building wealth beyond the traditional scripts of gold, property, and EMI.
+  - [Explore this application]({{ "indian_finance/" | relative_url }})
+
 - **Voorbij Normaal:** A guide to navigating ambition and success within the unique cultural context of the Netherlands.
   - [Explore this application]({{ "/dutch_ambition_book/" | relative_url }})
