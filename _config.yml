@@ -6,6 +6,8 @@ url: https://nodesman.github.io
 baseurl: /systemofmind
 permalink: pretty
 
+layouts_dir: portal/_layouts
+
 # Theme
 remote_theme: just-the-docs/just-the-docs
 
