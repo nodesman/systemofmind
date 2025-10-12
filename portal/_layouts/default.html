@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ "/portal/assets/css/custom.css?v=" | append: site.github.build_revision | relative_url }}">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </header>
+    <section class="main-content">
+      <aside class="sidebar">
+        <nav>
+          <ul>
+            <li><strong><a href="{{ '/book/' | relative_url }}">System of a Mind (Core Book)</a></strong></li>
+            <li><hr></li>
+            <li><strong>Application Realms</strong></li>
+            <!-- Application books will be listed here -->
+            <li><a href="#">- Indian Education</a></li>
+            <li><a href="#">- Personal Finance</a></li>
+            <li><a href="#">- Dutch Ambition</a></li>
+          </ul>
+        </nav>
+      </aside>
+      <main>
+        {{ content }}
+      </main>
+    </section>
+    <footer>
+      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+    </footer>
+  </div>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+</body>
+</html>
