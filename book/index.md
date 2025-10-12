@@ -13,7 +13,20 @@ This book is an examination of the "Default Settings"—the mental maps—that i
 
 By understanding this model, you can identify your own position, understand the people around you, and decide if the trade-offs you are making are the ones you truly want to make.
 
-Get started with:
+---
+
+### The Main Book
+
+Get started with the core concepts:
 
 - Part I — The Compass: {{ "/part_1/" | relative_url }}
 - Part II — The Gauntlet: {{ "/part_2/" | relative_url }}
+
+---
+
+### Applications
+
+These self-contained books apply the core framework to specific contexts.
+
+- **Voorbij Normaal:** A guide to navigating ambition and success within the unique cultural context of the Netherlands.
+  - [Explore this application]({{ "/dutch_ambition_book/" | relative_url }})
