@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Scripticon</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; }
+        nav { margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+        nav a { margin-right: 15px; text-decoration: none; }
+        textarea { width: 100%; height: 150px; }
+        .output { background-color: #f4f4f4; padding: 15px; border: 1px solid #ddd; border-radius: 4px; white-space: pre-wrap; font-family: monospace; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/app/">Dashboard</a>
+        <a href="/app/historian.html">Historian's Log</a>
+        <a href="/app/constitution.html">Constitution Forge</a>
+        <a href="/app/oracle.html">Oracle's Chamber</a>
+        <a href="/app/campaign.html">Campaign Map</a>
+        <a href="/app/scripticon.html">The Scripticon</a>
+    </nav>
+    <main>
+        # The Scripticon: A Library of Path 1 Scripts
+
+Here, you become the Cultural Cartographer. Deconstruct the hidden scripts that run the world around you. By mapping these systems, you can predict behavior, avoid conflict, and identify strategic opportunities. Fill out the template for a script, generate the JSON, and add it to the `app/_data/scripticon.json` file.
+
+### Your Current Library of Scripts:
+<pre class="output">false</pre>
+
+<hr>
+
+### Deconstruct a New Script:
+
+<div>
+    <label for="scriptName"><b>Script Name:</b></label>
+    <input type="text" id="scriptName" placeholder="e.g., The Indian IT Services Career Script">
+</div>
+<br>
+<div>
+    <label for="goal"><b>Ultimate Goal of the Script:</b></label>
+    <textarea id="goal" placeholder="e.g., Financial security and social prestige."></textarea>
+</div>
+<br>
+<div>
+    <label for="rules"><b>Rules & Taboos (one per line):</b></label>
+    <textarea id="rules" placeholder="e.g., Must get married by 30. Never question senior management."></textarea>
+</div>
+<br>
+<div>
+    <label for="roles"><b>Approved Roles (comma-separated):</b></label>
+    <input type="text" id="roles" placeholder="e.g., The Team Player, The Mentor, The Onsite Hopeful">
+</div>
+<br>
+<div>
+    <label for="rewards"><b>Rewards for Adherence:</b></label>
+    <textarea id="rewards" placeholder="e.g., Promotion, respect, a good marriage prospect."></textarea>
+</div>
+<br>
+<div>
+    <label for="punishments"><b>Punishments for Deviation:</b></label>
+    <textarea id="punishments" placeholder="e.g., Gossip, ostracism, being sidelined for projects."></textarea>
+</div>
+<br>
+<button onclick="generateScript()">Generate JSON</button>
+
+<h3>Generated JSON Output:</h3>
+<p>Copy the object below and add it as a new element to the array in <code>app/_data/scripticon.json</code></p>
+<pre id="jsonOutput" class="output"></pre>
+
+<script>
+    function generateScript() {
+        const script = {
+            scriptName: document.getElementById('scriptName').value.trim(),
+            goal: document.getElementById('goal').value.trim(),
+            rules: document.getElementById('rules').value.split('\n').map(s => s.trim()).filter(Boolean),
+            roles: document.getElementById('roles').value.split(',').map(s => s.trim()).filter(Boolean),
+            rewards: document.getElementById('rewards').value.trim(),
+            punishments: document.getElementById('punishments').value.trim()
+        };
+
+        document.getElementById('jsonOutput').textContent = JSON.stringify(script, null, 2);
+    }
+</script>
+
+    </main>
+</body>
+</html>

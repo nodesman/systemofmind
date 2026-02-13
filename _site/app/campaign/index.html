@@ -1,0 +1,52 @@
+
+
+# The Campaign Map
+
+Here, you design your "Long Game." A campaign is a multi-year strategic project. Define your campaign, its key objectives, and the resources required. Generate the JSON and add it to the `app/_data/campaigns.json` file.
+
+### Current Campaigns:
+<pre class="output">null</pre>
+
+<hr>
+
+### Design a New Campaign:
+
+<div>
+    <label for="campaignName"><b>Campaign Name:</b></label>
+    <input type="text" id="campaignName" placeholder="e.g., The Emigration Campaign">
+</div>
+<br>
+<div>
+    <label for="timeHorizon"><b>Time Horizon (e.g., 5 Years):</b></label>
+    <input type="text" id="timeHorizon" placeholder="e.g., 5 Years">
+</div>
+<br>
+<div>
+    <label for="endState"><b>Desired End State:</b> What is the ultimate goal?</label>
+    <textarea id="endState" placeholder="e.g., To have successfully emigrated to Country X with a stable income and professional network."></textarea>
+</div>
+<br>
+<div>
+    <label for="keyPhases"><b>Key Phases / Milestones (one per line):</b></label>
+    <textarea id="keyPhases" placeholder="e.g., Phase 1: Reconnaissance (-5 to -3 Years)"></textarea>
+</div>
+<br>
+<button onclick="generateCampaign()">Generate JSON</button>
+
+<h3>Generated JSON Output:</h3>
+<p>Copy the object below and add it as a new element to the array in <code>app/_data/campaigns.json</code></p>
+<pre id="jsonOutput" class="output"></pre>
+
+<script>
+    function generateCampaign() {
+        const campaign = {
+            campaignName: document.getElementById('campaignName').value.trim(),
+            timeHorizon: document.getElementById('timeHorizon').value.trim(),
+            desiredEndState: document.getElementById('endState').value.trim(),
+            keyPhases: document.getElementById('keyPhases').value.split('\n').map(s => s.trim()).filter(Boolean)
+        };
+
+        document.getElementById('jsonOutput').textContent = JSON.stringify(campaign, null, 2);
+    }
+</script>
+

@@ -1,0 +1,59 @@
+
+
+# The Historian's Log
+
+Here, you move from being the protagonist of your story to the chief analyst of your data. Log significant life events and perform a ruthless autopsy to understand your own operating system. Fill out the form for a single event, generate the JSON, and **append it to the array** in the `app/_data/historian_log.json` file.
+
+### Current Log Data:
+<pre class="output">null</pre>
+
+<hr>
+
+### Log a New Event:
+
+<div>
+    <label for="eventTitle"><b>Event Title:</b></label>
+    <input type="text" id="eventTitle" placeholder="e.g., Project Failure at Work">
+</div>
+<br>
+<div>
+    <label for="objectiveFacts"><b>Objective Facts:</b> What happened, stripped of all emotion?</label>
+    <textarea id="objectiveFacts" placeholder="e.g., Project deadline was missed by two weeks. My employment was terminated."></textarea>
+</div>
+<br>
+<div>
+    <label for="myActions"><b>My Actions:</b> What were my specific, observable actions?</label>
+    <textarea id="myActions" placeholder="e.g., I did not report the initial delay. I complained to colleagues but not to my boss."></textarea>
+</div>
+<br>
+<div>
+    <label for="myNarrative"><b>My Stated Narrative:</b> What story did I tell myself and others?</label>
+    <textarea id="myNarrative" placeholder="e.g., I was being a team player and protecting my team from chaos."></textarea>
+</div>
+<br>
+<div>
+    <label for="trueMotivation"><b>True Motivation (The Uncomfortable Truth):</b></label>
+    <textarea id="trueMotivation" placeholder="e.g., I was afraid of confrontation and of looking incompetent."></textarea>
+</div>
+<br>
+<button onclick="generateLogEntry()">Generate JSON</button>
+
+<h3>Generated JSON Output:</h3>
+<p>Copy the object below and add it as a new element to the array in <code>app/_data/historian_log.json</code></p>
+<pre id="jsonOutput" class="output"></pre>
+
+<script>
+    function generateLogEntry() {
+        const entry = {
+            logDate: new Date().toISOString(),
+            event: document.getElementById('eventTitle').value.trim(),
+            objectiveFacts: document.getElementById('objectiveFacts').value.trim(),
+            myActions: document.getElementById('myActions').value.trim(),
+            myNarrative: document.getElementById('myNarrative').value.trim(),
+            trueMotivation: document.getElementById('trueMotivation').value.trim()
+        };
+
+        document.getElementById('jsonOutput').textContent = JSON.stringify(entry, null, 2);
+    }
+</script>
+

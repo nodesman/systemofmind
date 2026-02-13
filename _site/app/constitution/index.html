@@ -1,0 +1,51 @@
+
+
+# The Constitution Forge
+
+Here, you will forge your personal constitution. This is not a list of goals, but a statement of your fundamental operating principles. Answer the questions below with ruthless honesty. When you are done, click "Generate JSON" and copy the output into the `app/_data/user_constitution.json` file. Rebuild the site to see your constitution reflected.
+
+### Current Constitution Data:
+<pre class="output">null</pre>
+
+<hr>
+
+### Forge Your Constitution:
+
+<div>
+    <label for="coreVirtues"><b>Core Virtues (comma-separated):</b> What 3-5 virtues are non-negotiable for the person you intend to be?</label>
+    <input type="text" id="coreVirtues" placeholder="e.g., Intellectual Honesty, Courage, Integrity">
+</div>
+<br>
+<div>
+    <label for="brightLines"><b>Bright Lines (one per line):</b> What are the absolute, inviolable rules you will not cross?</label>
+    <textarea id="brightLines" placeholder="e.g., I will never lie to myself about my own actions."></textarea>
+</div>
+<br>
+<div>
+    <label for="definitionOfWinning"><b>Definition of "Winning":</b> What does a well-lived life look like for you?</label>
+    <textarea id="definitionOfWinning" placeholder="e.g., A life of continuous learning, meaningful relationships, and creative freedom."></textarea>
+</div>
+<br>
+<button onclick="generateConstitution()">Generate JSON</button>
+
+<h3>Generated JSON Output:</h3>
+<p>Copy the text below and paste it into <code>app/_data/user_constitution.json</code></p>
+<pre id="jsonOutput" class="output"></pre>
+
+<script>
+    function generateConstitution() {
+        const virtues = document.getElementById('coreVirtues').value.split(',').map(s => s.trim()).filter(Boolean);
+        const lines = document.getElementById('brightLines').value.split('\n').map(s => s.trim()).filter(Boolean);
+        const winning = document.getElementById('definitionOfWinning').value.trim();
+
+        const constitution = {
+            ratifiedOn: new Date().toISOString(),
+            coreVirtues: virtues,
+            brightLines: lines,
+            definitionOfWinning: winning
+        };
+
+        document.getElementById('jsonOutput').textContent = JSON.stringify(constitution, null, 2);
+    }
+</script>
+

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historian's Log</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; }
+        nav { margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+        nav a { margin-right: 15px; text-decoration: none; }
+        textarea { width: 100%; height: 150px; }
+        .output { background-color: #f4f4f4; padding: 15px; border: 1px solid #ddd; border-radius: 4px; white-space: pre-wrap; font-family: monospace; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/app/">Dashboard</a>
+        <a href="/app/historian.html">Historian's Log</a>
+        <a href="/app/constitution.html">Constitution Forge</a>
+        <a href="/app/oracle.html">Oracle's Chamber</a>
+        <a href="/app/campaign.html">Campaign Map</a>
+        <a href="/app/scripticon.html">The Scripticon</a>
+    </nav>
+    <main>
+        # The Historian's Log
+
+Here, you move from being the protagonist of your story to the chief analyst of your data. Log significant life events and perform a ruthless autopsy to understand your own operating system. Fill out the form for a single event, generate the JSON, and **append it to the array** in the `app/_data/historian_log.json` file.
+
+### Current Log Data:
+<pre class="output">false</pre>
+
+<hr>
+
+### Log a New Event:
+
+<div>
+    <label for="eventTitle"><b>Event Title:</b></label>
+    <input type="text" id="eventTitle" placeholder="e.g., Project Failure at Work">
+</div>
+<br>
+<div>
+    <label for="objectiveFacts"><b>Objective Facts:</b> What happened, stripped of all emotion?</label>
+    <textarea id="objectiveFacts" placeholder="e.g., Project deadline was missed by two weeks. My employment was terminated."></textarea>
+</div>
+<br>
+<div>
+    <label for="myActions"><b>My Actions:</b> What were my specific, observable actions?</label>
+    <textarea id="myActions" placeholder="e.g., I did not report the initial delay. I complained to colleagues but not to my boss."></textarea>
+</div>
+<br>
+<div>
+    <label for="myNarrative"><b>My Stated Narrative:</b> What story did I tell myself and others?</label>
+    <textarea id="myNarrative" placeholder="e.g., I was being a team player and protecting my team from chaos."></textarea>
+</div>
+<br>
+<div>
+    <label for="trueMotivation"><b>True Motivation (The Uncomfortable Truth):</b></label>
+    <textarea id="trueMotivation" placeholder="e.g., I was afraid of confrontation and of looking incompetent."></textarea>
+</div>
+<br>
+<button onclick="generateLogEntry()">Generate JSON</button>
+
+<h3>Generated JSON Output:</h3>
+<p>Copy the object below and add it as a new element to the array in <code>app/_data/historian_log.json</code></p>
+<pre id="jsonOutput" class="output"></pre>
+
+<script>
+    function generateLogEntry() {
+        const entry = {
+            logDate: new Date().toISOString(),
+            event: document.getElementById('eventTitle').value.trim(),
+            objectiveFacts: document.getElementById('objectiveFacts').value.trim(),
+            myActions: document.getElementById('myActions').value.trim(),
+            myNarrative: document.getElementById('myNarrative').value.trim(),
+            trueMotivation: document.getElementById('trueMotivation').value.trim()
+        };
+
+        document.getElementById('jsonOutput').textContent = JSON.stringify(entry, null, 2);
+    }
+</script>
+
+    </main>
+</body>
+</html>

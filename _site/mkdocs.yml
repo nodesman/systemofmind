@@ -1,0 +1,27 @@
+site_name: System of a Mind
+site_description: 'An exploration of the systems of thought that govern our lives.'
+
+docs_dir: docs
+
+nav:
+  - Home: index.md
+  - Part 1: The Compass:
+    - Chapter 1: The Argument That Makes No Sense: part_1_the_compass/01_the_argument.md
+    - Chapter 2: The Map and The Territory: part_1_the_compass/02_the_map_and_the_territory.md
+    - Chapter 3: The Scaffolding of Meaning (The 6 Axiological Axes): part_1_the_compass/03_the_scaffolding_of_meaning.md
+    - Chapter 4: The Operating Systems (The HOW): part_1_the_compass/04_the_operating_systems.md
+    - Chapter 5: The Great Divides (The Sources of Conflict): part_1_the_compass/05_the_great_divides.md
+    - Chapter 6: The Clash of Maps (A Guide to Relationships): part_1_the_compass/06_the_clash_of_maps.md
+    - Chapter 7: The Realms of Meaning (The World Map): part_1_the_compass/07_the_realms_of_meaning.md
+  - Part 2: The Gauntlet:
+    - Chapter 8: The Gauntlet: The Price of Entry: part_2_the_gauntlet/08_the_gauntlet.md
+    - Chapter 9: Your Axiological Fingerprint (Self-Diagnosis): part_2_the_gauntlet/09_your_axiological_fingerprint.md
+    - Chapter 10: The Three Arenas (Choosing Your Canvas): part_2_the_gauntlet/10_the_three_arenas.md
+    - Chapter 11: The Gallery of Archetypes (A Tour of the Frontier): part_2_the_gauntlet/11_the_gallery_of_archetypes.md
+    - Chapter 12: Forging Your Own Map (The Six-Axis Workshop): part_2_the_gauntlet/12_forging_your_own_map.md
+    - Chapter 13: The Internal Physics of Your Map: part_2_the_gauntlet/13_the_internal_physics.md
+    - Chapter 14: Designing Your Interface (Navigating a World of Mismatch): part_2_the_gauntlet/14_designing_your_interface.md
+    - Conclusion: The Unfinished Map: part_2_the_gauntlet/15_conclusion.md
+
+theme:
+  name: readthedocs

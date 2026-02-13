@@ -1,0 +1,8 @@
+# Record Data (record_2985)
+
+```json
+{
+  "role": "user",
+  "content": "In the context of this: ```When lawyers bill by the hour, there’s a hidden tension between expediency and value that often works against the client. On paper, you’d think hourly billing incentivizes careful, thorough work—after all, more time means more money. But in practice, many lawyers (especially in fields like employment or contract law) optimize not for depth but for throughput. They aim to spend as little time as possible on each client while still billing just enough to justify the engagement. Expediency becomes a self-serving strategy: the faster they close your case, the less effort they invest, the sooner they can move on to the next billable client. This is especially damaging when a lawyer substitutes “you’re only legally entitled to X” for actual negotiation or strategy. Instead of leveraging your position, understanding your goals, or creating tactical pressure, they take the easiest path to closure—because they still get paid, and their calendar stays open for higher-yield cases. This is how you end up being billed for trivial email responses while receiving generic advice that leaves value on the table. Expediency in this context doesn’t serve the client—it serves the lawyer’s billing model. The per-hour pricing rewards shallow engagement as long as it looks “professional,” and unless the client knows to demand outcome-focused work or negotiates a smarter fee structure, they get processed instead of represented.``` what do you make of the way i negotiated given that she didn't seem to do a great job of negotiating"
+}
+```

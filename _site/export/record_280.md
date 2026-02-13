@@ -1,0 +1,8 @@
+# Record Data (record_280)
+
+```json
+{
+  "role": "user",
+  "content": "One other piece of information about him: I've called him to say hi back in 2010s i used to go to recharge my phone to talk to my brohter in tata docomo. i used to get a recharge pack and everything. he asked what do you want and didnt say much and ended the call as if he was called by some random person. even now when i call him there is a question of what i want and no interest in asking how are thngs going etc. not once have i received a question of how i am doing. even now. i mention the recharge pack because i used to put in the effort. when i was getting divorced my father asked him to financiall support me through the criminal case that my ex-wife filed. both him and my brother supported me through that. i hate to frame it like that but they seemed to do it through the divorce of teh arranged marriage. i reached out to both of them through the emotional distress of what happened. i've reached out to my brother many times after that but it sounded like he was struggling to offer empathy saying \"uhum\" not in a degrading voice but he wanted to hear but didnt know what to say. when i called to talk about the past he was dismissive and minimizing but when i called and yelled at my father and he called and told him what happened - then e would call me to talk about whatever it is i yelled at him. i mention the yelling ot mean that to him my problems exist and are signififant (ties this to the police incident too) if my father validates its existence (the way he asked him to support me financially dring the divorce process+criminal case of the arrangd marriage. "
+}
+```

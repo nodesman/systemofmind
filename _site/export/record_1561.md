@@ -1,0 +1,6 @@
+**User:**
+The incident with this manager, on the first day, he threw a litany of complaints, some of which are false, but he did it orally, and then the written one-on-one notes seemed to be different. He had no mention of some of the things that he mentioned orally. And then, it seems like it was done to create an impression of threat of PIP. And then he would tell me to not do something. In the intervening period, he continued to mention a little about the PIP. Uh. He. In the next three weeks, that guy would complain about something, and then he would tell me not to do it, come up with some reason on the spot. Then. And then he would again tell me, I'll let you, he'll say that, and then say, I'll let you know about the PIP. And then. He'll say something about me, argued, me having argued based on that guy not having liked some interaction with me. It was just a question about performance test. So I'm trying to say he would say some unrelated thing and then say, let you know about the PIP. And then on the third week. Uh. This was becoming a factor of every ordinary interaction that he didn't like. So, which really, really made it hostile for me. You understand. So. This is what was done.
+
+**Assistant:**
+[LLM Response]
+

@@ -1,0 +1,8 @@
+# Record Data (record_3127)
+
+```json
+{
+  "role": "user",
+  "content": "Here's the thing that I am, look, I don't want you to think I'm, if I ask a question like this, worded like this, I'm sure you'll say, yes, Raj, yeah, probably is true. But I would like to like you to give me a more reason, maybe, maybe not is also fine. I don't even know what I want from you, but, you know, telling you this would make me feel better. That's all. Am I looking for, yes, to agree with you? No. Can you even tell me that, yes, there is evidence for that, Raj, no. I don't know if there is. See, though, I'm reading into the question of whether or why, why that HRB person told me that I could become a manager. It is not, you see, you don't just become an engineering manager like that. Or maybe I'm attributing too much, too much competence. I don't know. I must have been right about everything, every single thing, everything for that to be true. I must have walked, I must have been right about so many things in order for it to be right, in order for me to be, in order for that statement to be true, for things about the individual commitments, question about that, question about the state of things, me reporting things. I think a lot more happened in that investigation than they're telling me. What do I mean is so I was right about my LinkedIn post being unrelated to being in any kind of business. My LinkedIn and the level of detail, level of insidious behavior that I pointed out, the kind of long term pattern I pointed out. Did I do anything to point out a larger pattern? Maybe a bit, I don't know. But I did paint a picture and nearly all of it turned out sure. I was communicating with that negotiation with HRB. But other than that,\n"
+}
+```

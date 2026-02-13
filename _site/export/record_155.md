@@ -1,0 +1,6 @@
+**User:**
+I got AI triple A coaching when I was in 12th standard. I fought for it, and then I got the exam, I mean I got the marks, I studied very hard, and then I got the grade, and I got a very good grade. He never appreciated nothing, not a single word of appreciation, nothing. He and my mother were talking, but not as if something that I did. It was as if some dog, his dog had done something. I mean, it was as if something, some output was arrived at through his effort. And then we went to the NIT Warangal Coaching and Counseling Center, and there he removed the courses and colleges that I wanted to put, and then he put his. I am the one who studied, I am the one who is going to study. There was no discussion ahead of time, there was no respectful discussion even in that moment. He acted annoyed when I had an opinion on it, as if he was shooing away some fly. But I ultimately got computer science, but still, you know, that was despite some, it was some hand of providence, I don't want to go into it now, because people who had worse ranks than me, and got courses that had a, that was placed at higher priority by him. So, it was not as if things just worked out. I mean, because of his greater wisdom, things went well for me. No. Combine this with all the other things and you see what happened there.
+
+**Assistant:**
+[LLM Response]
+

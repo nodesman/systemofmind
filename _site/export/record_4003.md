@@ -1,0 +1,8 @@
+# Record Data (record_4003)
+
+```json
+{
+  "role": "user",
+  "content": "I'm thinking about my friend Veera He seemed to be He seemed to dislike Okay, I don't know if i'm starting in the right place. Okay. I'm just gonna speak it Collect it all together. He he felt like He he he and I are tamil and we are walking through amsterdam and He liked to work on new ideas he liked to make new projects he is very creative he's uh He likes innovative ideas He has a good sense of software. He he criticized the dravidian movement and he criticized all the He said it's better to be Oppressed by brahmins than it is to be oppressed by these dravidian people He had a critical critical view of uh, uh Critical view of uh, there you are. He said he's probably an evangelist person But he did say that brahmins are north indians mostly he came from the north and He was opposed to evangelical christianity. He didn't like it. He was afraid of going to Christian schools because otherwise it might convert you he said he he went he goes to I asked him if he went to Meenakshi temple when he went to madurai and he said he did not and he went He said the fact that I asked him made him felt like the goddess is asking him to come. Um He sees a lot of whatever jokes He has a lost Father i'm not sure if that is He knows he's friendly with me knowing that Actually, he has spent a lot of time hearing me out He has taken me out multiple times during the entire service now crisis Heard me even given me details that otherwise I wouldn't have gotten. He's a loyal friend So uh Yeah, and uh, does he seem like a path three path two path one Or is there no not enough information? That's also fine. I'll give you more\n"
+}
+```

@@ -1,0 +1,8 @@
+# Record Data (record_2240)
+
+```json
+{
+  "role": "user",
+  "content": "What would have been the most problematic behavior as per HR? The one that is firing. Did they fire him for one issue or multiple or a pattern. Why I ask is this Brazilian friend of this bastard manager who is also a manager of UX designers seemed to take the effort to take my indian ux designer friend - veera and his indian team mate who si not really a friend of mine but indian to lunch shortly after the investigation report it was only indians at that lunch. I could be overthinking this but my indian friends are not charity cases they are highly capable. He is no one to give them what sounded like charitable head rubs in the form of a lunch or something, the manager seemed to invite himself to my friend veera’s house to ask how he is doing and other things - which was odd - he seemed to go out of his way literally t o be ‘warm’? To him. I am just wondering why is there so much behavior from this one manager about indians. This director himself gave my friend a fist bump apparently (I dont konw if he gave my friend veera a first bump for being indian or just a random employee) but given what happened it feels like a pattern but I could also be correlating it to my own thing. but we know that the fired manager had a final brazilian going away lunch with his compatriots in the office of whom one of them was this ux designer manager of veera. one is led to think he knows the details of what happened acutely. my deflector exploiter manager would have made a self-serving statement of what happened to him of course painting him as Jesus. "
+}
+```

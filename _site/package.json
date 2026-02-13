@@ -1,0 +1,11 @@
+{
+  "name": "systemofmind-site",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Local scripts to build/serve the Jekyll site and view chats.",
+  "scripts": {
+    "build": "bundle exec jekyll build --config _config.yml,_config.local.yml",
+    "dev": "bundle exec jekyll serve --livereload --config _config.yml,_config.local.yml",
+    "start": "npm run dev"
+  }
+}

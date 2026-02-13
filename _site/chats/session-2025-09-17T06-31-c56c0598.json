@@ -1,0 +1,14 @@
+{
+  "sessionId": "c56c0598-72a6-493c-be9e-17f27ed6a99f",
+  "projectHash": "91892b9f6ba8f1caf72416cfc5065f66634229d518861575809c232c60352ca9",
+  "startTime": "2025-09-17T07:21:16.167Z",
+  "lastUpdated": "2025-09-17T07:21:16.167Z",
+  "messages": [
+    {
+      "id": "55cfce00-1453-4067-823e-0c817a6c224d",
+      "timestamp": "2025-09-17T07:21:16.167Z",
+      "type": "user",
+      "content": "please finish the rest of the book in gemini cli"
+    }
+  ]
+}

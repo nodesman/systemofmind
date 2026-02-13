@@ -1,0 +1,8 @@
+# Record Data (record_3863)
+
+```json
+{
+  "role": "user",
+  "content": "I live in Amsterdam. \n\nWe have already determined that living in India is out of the question. \n\nLiving in the USA is not an option. \n\nWhat is a bi tjarring is \n\nIt just feels odd that I am constantly home. \n\nSure i've led a derived dynamic life. I am putting in the effort to \n\nI moved to this house in 2021. A fact of life in Amsterdam is \n\nWhen i was in india working at thoughtworks i was moving a lot. i had to go to office in ascandas it park. when iw asin gurgoan thoughtowrks i went to office veryday. \ni suddenly feel uneashy about where I am. \n\nEven if I go to office and work somewhere it is likely goign to be at least partially working from home. Becuase people hardly come to office in Europe\n\n(paradoxically the easy way to get around is why i am here right?)\n\nThe pain and confusion is how did I get here where from this point in life.. I am in Netherlands. This is home forever. Right? The life here is different from both USA and India? \n\nIs that becuase i am comparing it to my past or have most people returned to office in INida now? after covid? I saw a positino in ASML eindhoven and that was only workf rom office for 3 days a week. \n\nLet's say I get a job and quite a good chance that it will be a fully remote job. Where in the world do I go? I mean nto the whole world. But in Amsterdam. To coffeecompany cafe in the morning and end up spending €5 on bad coffee just to exist and cope with my own home? Oosterpark? Flevopark. My locus of existence should ideally be higher i think.. but the problem is the question of how mcuh do i do.. \n"
+}
+```

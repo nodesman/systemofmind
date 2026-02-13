@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constitution Forge</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; }
+        nav { margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+        nav a { margin-right: 15px; text-decoration: none; }
+        textarea { width: 100%; height: 150px; }
+        .output { background-color: #f4f4f4; padding: 15px; border: 1px solid #ddd; border-radius: 4px; white-space: pre-wrap; font-family: monospace; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/app/">Dashboard</a>
+        <a href="/app/historian.html">Historian's Log</a>
+        <a href="/app/constitution.html">Constitution Forge</a>
+        <a href="/app/oracle.html">Oracle's Chamber</a>
+        <a href="/app/campaign.html">Campaign Map</a>
+        <a href="/app/scripticon.html">The Scripticon</a>
+    </nav>
+    <main>
+        # The Constitution Forge
+
+Here, you will forge your personal constitution. This is not a list of goals, but a statement of your fundamental operating principles. Answer the questions below with ruthless honesty. When you are done, click "Generate JSON" and copy the output into the `app/_data/user_constitution.json` file. Rebuild the site to see your constitution reflected.
+
+### Current Constitution Data:
+<pre class="output">false</pre>
+
+<hr>
+
+### Forge Your Constitution:
+
+<div>
+    <label for="coreVirtues"><b>Core Virtues (comma-separated):</b> What 3-5 virtues are non-negotiable for the person you intend to be?</label>
+    <input type="text" id="coreVirtues" placeholder="e.g., Intellectual Honesty, Courage, Integrity">
+</div>
+<br>
+<div>
+    <label for="brightLines"><b>Bright Lines (one per line):</b> What are the absolute, inviolable rules you will not cross?</label>
+    <textarea id="brightLines" placeholder="e.g., I will never lie to myself about my own actions."></textarea>
+</div>
+<br>
+<div>
+    <label for="definitionOfWinning"><b>Definition of "Winning":</b> What does a well-lived life look like for you?</label>
+    <textarea id="definitionOfWinning" placeholder="e.g., A life of continuous learning, meaningful relationships, and creative freedom."></textarea>
+</div>
+<br>
+<button onclick="generateConstitution()">Generate JSON</button>
+
+<h3>Generated JSON Output:</h3>
+<p>Copy the text below and paste it into <code>app/_data/user_constitution.json</code></p>
+<pre id="jsonOutput" class="output"></pre>
+
+<script>
+    function generateConstitution() {
+        const virtues = document.getElementById('coreVirtues').value.split(',').map(s => s.trim()).filter(Boolean);
+        const lines = document.getElementById('brightLines').value.split('\n').map(s => s.trim()).filter(Boolean);
+        const winning = document.getElementById('definitionOfWinning').value.trim();
+
+        const constitution = {
+            ratifiedOn: new Date().toISOString(),
+            coreVirtues: virtues,
+            brightLines: lines,
+            definitionOfWinning: winning
+        };
+
+        document.getElementById('jsonOutput').textContent = JSON.stringify(constitution, null, 2);
+    }
+</script>
+
+    </main>
+</body>
+</html>
